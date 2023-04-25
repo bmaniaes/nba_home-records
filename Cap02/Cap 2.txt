@@ -1,0 +1,38 @@
+Cap II
+
+Problema de negócio - Oq queremos resolver? Definir o problema
+Preparação dos dados - Limpeza, modelagem, checagem de qualidade e transformações quando necessárias 
+Análise Exploratória - Explorar os dados, segmentar, incluir ou remover variáveis
+Visualização dos dados - Dados prontos, podemos visualizá-los e compreendê-los
+Ações - Apresentar insights e recomendações
+
+Tipos de dados: 
+
+1.Numéricos ou Categóricos
+2.Primários ou Secundários
+3.Primitivos(value, str) ou não primitivos (lista, arrays)
+4.Estruturados, Não Estruturados ou Semi Estruturados
+
+Qualitativas:
+Nominal:
+- profissão
+- sexo
+Ordinal: 
+- escolaridade
+- classe social
+Quantitativas: 
+Discreta: 
+-nº de fihos
+Contínua: 
+-Altura
+-Salário
+
+Primitivos:
+-integer
+-float
+-string
+-boolean
+
+Non-Primitive:
+-Built-in (list,tuple,set)
+-User-defined (graph, tree,stack)
